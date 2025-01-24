@@ -21,5 +21,5 @@ Hi there! I'm [Your Name], a [Your Profession/Role, e.g., Software Developer, Da
 - 📖 Keep learning and growing!
 
 ## Connect With Me
-[Your LinkedIn](#[https://www.linkedin.com/in/yannis-cheung/]) | [Your Twitter](#) | [Your Portfolio](#)
+[Your LinkedIn](#https://www.linkedin.com/in/yannis-cheung/) | [Your Twitter](#) | [Your Portfolio](#)
 
