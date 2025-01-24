@@ -16,4 +16,4 @@ Hi there! My interests lie in financial machine learning and asset pricing. I lo
 - 📖 Keep learning and growing!
 
 ## Connect With Me
-[Your LinkedIn](https://www.linkedin.com/in/yannis-cheung/) | 
+[Your LinkedIn](https://www.linkedin.com/in/yannis-cheung/) 
