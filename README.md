@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hi there! My current interests lie in financial machine learning and asset pricing models, and I hope to develop my knowledge and understanding further in this area.
+Hi there! My interests lie in financial machine learning and asset pricing. I look to develop my knowledge and understanding further in this area.
 ## About Me
 
 - 🌱 Currently learning: Financial Econometrics
